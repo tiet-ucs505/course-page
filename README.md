@@ -1,6 +1,13 @@
 # UCS505 Course Page
 (Summer 2024)
 
+## Table of contents ##
+1. [Academic Calendar](#academic-calendar)
+2. [Evaluations](#evaluations)
+3. [Lecture Schedule](#lecture-schedule)
+4. [Resources](#resources)
+5. [Issues](#issues)
+
 ## Academic Calendar ##
 
 ![](./images/academic-calendar.png)
