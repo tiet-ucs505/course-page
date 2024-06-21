@@ -31,7 +31,7 @@ Regular mode students have a mandatory requirement of
    |-------|---------|-----------------------------|---------|---------|
    | 1.    | **EST** | End Semester Exam (3h 5/6Q) | TBA     | 45      |
    | 2.    | **MST** | Mid Semester Exam (2h 5/5Q) | TBA     | 25      |
-   | 3.    | **A1**  | Sessional Assignment 1      | 24-June | 10      |
+   | 3.    | **A1**  | Sessional Assignment 1      | 25-June | 10      |
    | 4.    | **LE1** | Sessional Lab Eval 1        | 08-July | 10      |
    | 5.    | **LE2** | Sessional Lab Eval 2        | 16-July | 10      |
    |       |         | **Total**                   |         | **100** |
