@@ -2,11 +2,21 @@
 (Summer 2024)
 
 ## Table of contents ##
+1. [Updates](#Updates)
 1. [Academic Calendar](#academic-calendar)
 2. [Evaluations](#evaluations)
 3. [Lecture Schedule](#lecture-schedule)
 4. [Resources](#resources)
 5. [Issues](#issues)
+
+## Updates ##
+
+### [2024-06-21 Fri] ###
+
+1. Sessionals updated from 3x Lab Eval to 1x Assignment
+   [A1](#sessional-assignment-1) + 2x Lab Eval.
+2. [Sessional Assignment 1](#sessional-assignment-1)
+   announced.
 
 ## Academic Calendar ##
 
@@ -21,9 +31,9 @@ Regular mode students have a mandatory requirement of
    |-------|---------|-----------------------------|---------|---------|
    | 1.    | **EST** | End Semester Exam (3h 5/6Q) | TBA     | 45      |
    | 2.    | **MST** | Mid Semester Exam (2h 5/5Q) | TBA     | 25      |
-   | 3.    | **LE1** | Sessional Lab Eval 1        | 24-June | 10      |
-   | 4.    | **LE2** | Sessional Lab Eval 2        | 08-July | 10      |
-   | 5.    | **LE3** | Sessional Lab Eval 3        | 16-July | 10      |
+   | 3.    | **A1**  | Sessional Assignment 1      | 24-June | 10      |
+   | 4.    | **LE1** | Sessional Lab Eval 1        | 08-July | 10      |
+   | 5.    | **LE2** | Sessional Lab Eval 2        | 16-July | 10      |
    |       |         | **Total**                   |         | **100** |
 
 1. No make-up provision exists for summer semester
@@ -35,6 +45,16 @@ Regular mode students have a mandatory requirement of
    important.
 4. The details of lab assignments [will be announced
    here](https://github.com/tiet-ucs505/lab-assignments)
+
+### Sessional Assignment 1 ###
+
+Problem Code: 0xa1  
+Problem Title: Assignment 1
+
+[`[PDF]`](./0xa1.pdf)
+
+[Submission
+Form](https://docs.google.com/forms/d/e/1FAIpQLSdIWZ3nq40BCQyGcERINYRium-VgyBktcozn9fXhQJacypKUA/viewform?usp=sf_link)
 
 ## Lecture Schedule ##
 1. [`[PDF]`](https://drive.google.com/file/d/1CJxN9oGy4iTQepDaW3v-kmatbqnKmQxS/view?usp=drive_link)
