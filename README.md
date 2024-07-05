@@ -11,6 +11,10 @@
 
 ## Updates ##
 
+### [2024-07-05 Fri] ###
+1. [Sessional Lab Eval 1](#sessional-lab-eval-1)
+   announced.
+
 ### [2024-06-21 Fri] ###
 
 1. Sessionals updated from 3x Lab Eval to 1x Assignment
@@ -32,8 +36,8 @@ Regular mode students have a mandatory requirement of
    | 1.    | **EST**      | End Semester Exam (3h 5/6Q) | TBA              | 45      |
    | 2.    | **MST**      | Mid Semester Exam (2h 5/5Q) | 02-July 08:00 am | 25      |
    | 3.    | **SESS#A1**  | Sessional Assignment 1      | 25-June          | 10      |
-   | 4.    | **SESS#LE1** | Sessional Lab Eval 1        | 08-July          | 10      |
-   | 5.    | **SESS#LE2** | Sessional Lab Eval 2        | 16-July          | 10      |
+   | 4.    | **SESS#LE1** | Sessional Lab Eval 1        | 08-July 08:00 am | 10      |
+   | 5.    | **SESS#LE2** | Sessional Lab Eval 2        | 16-July 08:00 am | 10      |
    |       |              | **Total**                   |                  | **100** |
 
 1. No make-up provision exists for summer semester
@@ -43,8 +47,6 @@ Regular mode students have a mandatory requirement of
    here](https://drive.google.com/drive/folders/11Ooc9FPz14xw_49i6S_MFldtPUcZgujZ?usp=drive_link).
 3. Course for EST: Full Course; all topics equally
    important.
-4. The details of lab assignments [will be announced
-   here](https://github.com/tiet-ucs505/lab-assignments)
 
 ### Sessional Assignment 1 ###
 
@@ -55,6 +57,31 @@ Problem Title: Assignment 1
 
 [Submission
 Form](https://docs.google.com/forms/d/e/1FAIpQLSdIWZ3nq40BCQyGcERINYRium-VgyBktcozn9fXhQJacypKUA/viewform?usp=sf_link)
+
+### Sessional Lab Eval 1 ###
+
+Problem Code: 0x0a  
+Problem Title: Rotating Colourful Cube
+
+Clone [the starter template
+repository](https://github.com/tiet-ucs505/0x0a-rotating-colourful-cube),
+and complete the given tasks.
+
+Once completed, screen-capture a teaser, and rename it
+in the format
+`<roll-no>-<problem-code>-<problem-title>-teaser.png`.
+
+Create a 15-30s short video to highlight your efforts.
+Upload it to a streaming platform (like youtube) and
+submit *a public link*.
+
+#### Submit ####
+
+1. Git URL
+2. Commit ID
+3. Teaser: `<roll-no>-<problem-code>-<problem-title>-teaser.png`
+4. Video Link
+
 
 ## Lecture Schedule ##
 1. [`[PDF]`](https://drive.google.com/file/d/1CJxN9oGy4iTQepDaW3v-kmatbqnKmQxS/view?usp=drive_link)
