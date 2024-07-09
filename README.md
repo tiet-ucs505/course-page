@@ -11,6 +11,16 @@
 
 ## Updates ##
 
+### [2024-07-09 Tue] ###
+
+1. Sessional Lab Eval 1 deadline extended to 10-July
+   08:00 am
+2. Submission Form opened.
+3. [Sessional Assignment 2](#sessional-assignment-2)
+   replaces Sessional Lab Eval 2, and thus announced.
+4. Clarification: Breach of deadline shall attract
+   penalty of 30% rounded away from zero.
+
 ### [2024-07-05 Fri] ###
 1. [Sessional Lab Eval 1](#sessional-lab-eval-1)
    announced.
@@ -37,7 +47,7 @@ Regular mode students have a mandatory requirement of
    | 2.    | **MST**      | Mid Semester Exam (2h 5/5Q) | 02-July 08:00 am | 25      |
    | 3.    | **SESS#A1**  | Sessional Assignment 1      | 25-June          | 10      |
    | 4.    | **SESS#LE1** | Sessional Lab Eval 1        | 08-July 08:00 am | 10      |
-   | 5.    | **SESS#LE2** | Sessional Lab Eval 2        | 16-July 08:00 am | 10      |
+   | 5.    | **SESS#A2**  | Sessional Assignment 2      | 16-July 08:00 am | 10      |
    |       |              | **Total**                   |                  | **100** |
 
 1. No make-up provision exists for summer semester
@@ -47,6 +57,9 @@ Regular mode students have a mandatory requirement of
    here](https://drive.google.com/drive/folders/11Ooc9FPz14xw_49i6S_MFldtPUcZgujZ?usp=drive_link).
 3. Course for EST: Full Course; all topics equally
    important.
+4. The mentioned deadlines for Sessionals are soft, in
+   the sense that a breach shall attract a penalty of
+   30% rounded away from zero.
 
 ### Sessional Assignment 1 ###
 
@@ -56,12 +69,25 @@ Problem Title: Assignment 1
 [`[PDF]`](./0xa1.pdf)
 
 [Submission
-Form](https://docs.google.com/forms/d/e/1FAIpQLSdIWZ3nq40BCQyGcERINYRium-VgyBktcozn9fXhQJacypKUA/viewform?usp=sf_link)
+Form](https://docs.google.com/forms/d/e/1FAIpQLSdIWZ3nq40BCQyGcERINYRium-VgyBktcozn9fXhQJacypKUA/viewform)
+
+### Sessional Assignment 2 ###
+
+Problem Code: 0xa2  
+Problem Title: Assignment 2
+
+[`[PDF]`](./0xa2.pdf)
+
+[Submission
+Form](https://docs.google.com/forms/d/e/1FAIpQLSdIWZ3nq40BCQyGcERINYRium-VgyBktcozn9fXhQJacypKUA/viewform)
 
 ### Sessional Lab Eval 1 ###
 
 Problem Code: 0x0a  
 Problem Title: Rotating Colourful Cube
+
+[Submission
+Form](https://docs.google.com/forms/d/e/1FAIpQLSdmAG70DmnD4TMY8y9XT_r3Z2t0Q6ubCAnR9reQAUUtRPYKig/viewform)
 
 Clone [the starter template
 repository](https://github.com/tiet-ucs505/0x0a-rotating-colourful-cube),
